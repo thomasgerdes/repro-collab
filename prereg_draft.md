@@ -65,6 +65,11 @@ Based on the theoretical framework and prior observations, we predict:
    - Total: approximately 6,850 trials per participant
 4. Sessions last approximately one hour, with regular breaks to prevent fatigue
 
+
+We didn't use a tachistoscope
+We didn't categorize stimuli into three difficulty levels
+None of us will ever complete 6,850 (!!) trials
+
 ### Key Measurements
 
 - **Reaction time**: Time from stimulus presentation to response (in seconds)
